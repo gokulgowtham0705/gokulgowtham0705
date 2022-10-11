@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokul Gowtham
-- 👀 I’m interested in python,java,HTML
-- 🌱 I’m currently learning JAVa
+- 👀 Associate QA Engineer 
+- 🌱 Work experience with Manual And Automation Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me mail me @gokulgowthamzzz@gmail.com
 
